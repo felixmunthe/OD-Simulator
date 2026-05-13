@@ -18,4 +18,4 @@ The workflow evaluates multiple outlier detection methods for preprocessing rate
 The datasets in this repository are synthetic or anonymized examples prepared to support research reproducibility. No confidential, proprietary, or client data are included.
 
 ## Requirements
-Install the required packages using:
+Install the required packages.
